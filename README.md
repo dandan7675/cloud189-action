@@ -32,7 +32,7 @@
 ### 四、查看运行结果
 > Actions --> 签到 --> build
 >
-> 能看到如下图所示，表示成功
+> 能看到如下图所示，表示成功.
 
 ![image-20200727144951950](https://i.loli.net/2020/07/27/VbrHu8UJXiIkqGx.png)
 
